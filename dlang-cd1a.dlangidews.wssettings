@@ -1,0 +1,19 @@
+{
+    "startupProject": "cd1a",
+    "expandedItems": [
+        "/home/admin/dlang-project/guile-cd1a/dlang-cd1a/cd1a/source",
+        "/home/admin/dlang-project/guile-cd1a/dlang-cd1a/cd1a/dub.json"
+    ],
+    "selectedWorkspaceItem": "/home/admin/dlang-project/guile-cd1a/dlang-cd1a/cd1a/source/app.d",
+    "files": [
+        {
+            "file": "/home/admin/dlang-project/guile-cd1a/dlang-cd1a/cd1a/source/app.d",
+            "column": 0,
+            "row": 0
+        }
+    ],
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ]
+}
